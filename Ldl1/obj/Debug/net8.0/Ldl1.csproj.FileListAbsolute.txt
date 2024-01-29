@@ -1,0 +1,28 @@
+C:\Users\denis\source\repos\Ldl1\bin\Debug\net8.0\Ldl1.exe
+C:\Users\denis\source\repos\Ldl1\bin\Debug\net8.0\Ldl1.deps.json
+C:\Users\denis\source\repos\Ldl1\bin\Debug\net8.0\Ldl1.runtimeconfig.json
+C:\Users\denis\source\repos\Ldl1\bin\Debug\net8.0\Ldl1.dll
+C:\Users\denis\source\repos\Ldl1\bin\Debug\net8.0\Ldl1.pdb
+C:\Users\denis\source\repos\Ldl1\obj\Debug\net8.0\Ldl1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\denis\source\repos\Ldl1\obj\Debug\net8.0\Ldl1.AssemblyInfoInputs.cache
+C:\Users\denis\source\repos\Ldl1\obj\Debug\net8.0\Ldl1.AssemblyInfo.cs
+C:\Users\denis\source\repos\Ldl1\obj\Debug\net8.0\Ldl1.csproj.CoreCompileInputs.cache
+C:\Users\denis\source\repos\Ldl1\obj\Debug\net8.0\Ldl1.dll
+C:\Users\denis\source\repos\Ldl1\obj\Debug\net8.0\refint\Ldl1.dll
+C:\Users\denis\source\repos\Ldl1\obj\Debug\net8.0\Ldl1.pdb
+C:\Users\denis\source\repos\Ldl1\obj\Debug\net8.0\Ldl1.genruntimeconfig.cache
+C:\Users\denis\source\repos\Ldl1\obj\Debug\net8.0\ref\Ldl1.dll
+C:\Users\denis\Рабочий стол\Ldl1\obj\Debug\net8.0\Ldl1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\denis\Рабочий стол\Ldl1\obj\Debug\net8.0\Ldl1.AssemblyInfoInputs.cache
+C:\Users\denis\Рабочий стол\Ldl1\obj\Debug\net8.0\Ldl1.AssemblyInfo.cs
+C:\Users\denis\Рабочий стол\Ldl1\obj\Debug\net8.0\Ldl1.csproj.CoreCompileInputs.cache
+C:\Users\denis\Рабочий стол\Ldl1\obj\Debug\net8.0\Ldl1.dll
+C:\Users\denis\Рабочий стол\Ldl1\obj\Debug\net8.0\refint\Ldl1.dll
+C:\Users\denis\Рабочий стол\Ldl1\obj\Debug\net8.0\Ldl1.pdb
+C:\Users\denis\Рабочий стол\Ldl1\bin\Debug\net8.0\Ldl1.exe
+C:\Users\denis\Рабочий стол\Ldl1\bin\Debug\net8.0\Ldl1.deps.json
+C:\Users\denis\Рабочий стол\Ldl1\bin\Debug\net8.0\Ldl1.runtimeconfig.json
+C:\Users\denis\Рабочий стол\Ldl1\bin\Debug\net8.0\Ldl1.dll
+C:\Users\denis\Рабочий стол\Ldl1\bin\Debug\net8.0\Ldl1.pdb
+C:\Users\denis\Рабочий стол\Ldl1\obj\Debug\net8.0\Ldl1.genruntimeconfig.cache
+C:\Users\denis\Рабочий стол\Ldl1\obj\Debug\net8.0\ref\Ldl1.dll
